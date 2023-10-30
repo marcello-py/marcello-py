@@ -1,11 +1,12 @@
-### Olá, eu sou o Marcelo
+# Olá, eu sou o Marcelo
 
 
-### Formação 🎓
+# Formação 🎓
+
 
 Sou formado em Sistema de Informações na Estácio de Sá de Vila Velha - ES.
 
-### Informação Detalhada
+# Informações Detalhadas
 
     Nome: Marcelo Nunes
     Idade: 26
