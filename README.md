@@ -6,6 +6,13 @@
 
 Sou formado em Sistema de Informações na Estácio de Sá de Vila Velha - ES.
 
+# Informações Detalhadas
+    Nome: Marcelo Nunes
+    Idade: 26
+    Moro em: Cariacia - ES, Brasil
+    Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
+    Faculdade: Sistema de Informações na Estácio de Sá de Vila Velha - ES.
+    
 
 # 💻 Tecnologias que eu utilizo
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -15,12 +22,6 @@ Sou formado em Sistema de Informações na Estácio de Sá de Vila Velha - ES.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-# Informações Detalhadas
 
 
-    Nome: Marcelo Nunes
-    Idade: 26
-    Moro em: Cariacia - ES, Brasil
-    Stack: Python - SQL - AWS
-    Faculdade: Sistema de Informações na Estácio de Sá de Vila Velha - ES.
-    
+
