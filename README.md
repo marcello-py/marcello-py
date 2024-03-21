@@ -10,7 +10,7 @@ Sou formado em Sistema de Informações na Estácio de Sá de Vila Velha - ES.
     Nome: Marcelo Nunes
     Idade: 27
     Moro em: Cariacia - ES, Brasil
-    Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
+    Skills: Python / SQL / Data Science / Machine Learning
     Faculdade: Sistema de Informações na Estácio de Sá de Vila Velha - ES.
     
 
